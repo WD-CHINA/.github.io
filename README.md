@@ -1,2 +1,2 @@
-# .github.io
+# wd.github.io
 个人博客
